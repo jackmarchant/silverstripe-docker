@@ -5,7 +5,7 @@ I wanted a complete setup of a SilverStripe LAMP stack (normal LAMP with Apache 
 Wrapping `Make` around docker-compose commands makes it easier to interact with containers.
 
 ## Requirements
-- [Docker for Mac](https://www.docker.com/docker-mac)
+- [Docker for Mac](https://www.docker.com/docker-mac) or [Docker for Windows](https://www.docker.com/docker-windows)
 - [Make](https://www.gnu.org/software/make)
 
 ## How to setup
